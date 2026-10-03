@@ -1,1 +1,10 @@
-# area-of-circle-
+#include<studio.h>
+int main()
+{
+ flot radius ;
+ printf("enter radius");
+ scanf("%f",& radius);
+ printf ("area is:%f",3.14*radius*radius);
+
+return 0;
+}
